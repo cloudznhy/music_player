@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Titlebar.qml</file>
+        <file>Rightcontent.qml</file>
+        <file>Leftbar.qml</file>
+        <file>Bottombar.qml</file>
+        <file>QCImage.qml</file>
+        <file>QCTooTipButton.qml</file>
+        <file>RoundImage.qml</file>
+        <file>pagefindmusic.qml</file>
+        <file>MusicResource.qml</file>
+        <file>Playlistlabel.qml</file>
+        <file>pagePlayListDetail.qml</file>
+        <file>QCMusicPlayer.qml</file>
+        <file>QCBottomVolumeButton.qml</file>
+        <file>pageSelectMusic.qml</file>
+        <file>PageMusicLyricDetail.qml</file>
+        <file>QCLyricListView.qml</file>
+        <file>BackGroundManager.qml</file>
+        <file>PageLogin.qml</file>
+        <file>PageRegister.qml</file>
+        <file>PageMain.qml</file>
+        <file>Pageplaylist.qml</file>
+        <file>PageFavoriteMusic.qml</file>
+        <file>PageHistory.qml</file>
+    </qresource>
+</RCC>

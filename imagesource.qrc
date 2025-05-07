@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/wangyiyun-copy-copy.svg</file>
+        <file>images/fangda.svg</file>
+        <file>images/close.svg</file>
+        <file>images/minimize.svg</file>
+        <file>images/wyyicon.svg</file>
+        <file>images/gedan.svg</file>
+        <file>images/yinle.svg</file>
+        <file>images/lishijilu.svg</file>
+        <file>images/wj-wjj.svg</file>
+        <file>images/wodexihuan.svg</file>
+        <file>images/xiazai.svg</file>
+        <file>images/ws_2459156452_thumb.jpg</file>
+        <file>images/player.svg</file>
+        <file>images/prePlayer.svg</file>
+        <file>images/repeatSinglePlay.svg</file>
+        <file>images/playList.svg</file>
+        <file>images/stop.svg</file>
+        <file>images/loopPlay.svg</file>
+        <file>images/randomPlay.svg</file>
+        <file>images/select.svg</file>
+        <file>images/fold.svg</file>
+        <file>images/V.svg</file>
+        <file>images/dropDown.svg</file>
+        <file>images/myFavorite.svg</file>
+        <file>images/myFavorite2.svg</file>
+        <file>images/confirm.svg</file>
+        <file>images/login.svg</file>
+        <file>images/register.svg</file>
+        <file>images/return.svg</file>
+    </qresource>
+</RCC>

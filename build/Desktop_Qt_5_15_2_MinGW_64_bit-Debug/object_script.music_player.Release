@@ -1,0 +1,11 @@
+release/dbmanager.o
+release/framelesswindow.o
+release/imagecolor.o
+release/main.o
+release/threadmanager.o
+release/qrc_qml.o
+release/qrc_imagesource.o
+release/moc_dbmanager.o
+release/moc_framelesswindow.o
+release/moc_imagecolor.o
+release/moc_threadmanager.o

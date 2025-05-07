@@ -1,0 +1,11 @@
+debug/dbmanager.o
+debug/framelesswindow.o
+debug/imagecolor.o
+debug/main.o
+debug/threadmanager.o
+debug/qrc_qml.o
+debug/qrc_imagesource.o
+debug/moc_dbmanager.o
+debug/moc_framelesswindow.o
+debug/moc_imagecolor.o
+debug/moc_threadmanager.o
